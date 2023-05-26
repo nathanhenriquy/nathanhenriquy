@@ -1,4 +1,4 @@
-👋 Salve! Sou o Nathan Henrique
+👋 Salve! Sou o Nathan 
 
 - 👀 Tenho interesse em jogos e tecnologia
 - 🌱 Atualmente estou cursando Ciência da Computação
