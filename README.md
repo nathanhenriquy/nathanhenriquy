@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
 
+  ##
+
  <div style="display: inline_block"><br>
     <img align="center" alt="Na-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>
