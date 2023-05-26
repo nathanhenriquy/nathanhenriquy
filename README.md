@@ -3,6 +3,8 @@
 - 👀 Tenho interesse em jogos e tecnologia
 - 🌱 Atualmente estou cursando Ciência da Computação
 
+  ##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
 
   ##
