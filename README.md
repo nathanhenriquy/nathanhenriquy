@@ -1,7 +1,7 @@
 👋 Salve! Sou o Nathan 
 
 - 👀 Tenho interesse em jogos e tecnologia
-- 🌱 Atualmente estou cursando Ciência da Computação
+- 🌱 Atualmente estou cursando Ciência da Computação na UP-PR
 - 🕹️Gosto de animes, e incrivelmente praticar esportes
 
  ##
