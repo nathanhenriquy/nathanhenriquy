@@ -7,7 +7,7 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
-<img align="right" height="150 "  alt="Nathan-gif" src="https://o.remove.bg/downloads/a3191940-24b0-4290-8760-607732ce8d10/tumblr_b25632b53f308209e3cdc2703d9c95b7_63620539_1280-removebg-preview.png">
+<img align="right" height="150 "  alt="Nathan-gif" src="notion://www.notion.so/image/https%3A%2F%2Fo.remove.bg%2Fdownloads%2Fb811f7c0-ca35-468a-a15c-19ec136da546%2Ftumblr_b25632b53f308209e3cdc2703d9c95b7_63620539_1280-removebg-preview.png?table=block&id=843abc15-bed0-4b26-a0d2-bfae05193127&spaceId=fb613810-a942-41b6-bda6-184b61d64a67&width=250&userId=32bf8ff2-561a-4584-b68f-044a470113ff&cache=v2">
 
   ## <img height="80" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1513.gif"/> Linguagens que uso/aprendendo
 
