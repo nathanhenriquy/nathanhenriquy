@@ -7,7 +7,7 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
-<img align="right" height="150 "  alt="Nathan-gif" src="https://w7.pngwing.com/pngs/930/64/png-transparent-hori-san-to-miyamura-kun-anime-sh%C5%8Djo-manga-izumi-miyamura-anime-purple-cg-artwork-black-hair-thumbnail.png">
+<img align="right" height="150 "  alt="Nathan-gif" src="https://o.remove.bg/downloads/74402292-4227-4ea7-a158-13fe1f899d66/e40f8e0ff636369ccfda3b9dcfd97ca7__1_-removebg-preview.png">
 
   ## <img height="80" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1513.gif"/> Linguagens que uso/aprendendo
 
