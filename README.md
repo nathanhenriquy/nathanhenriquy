@@ -1,8 +1,5 @@
 👋 Salve! Sou o Nathan 
 
-- 👀 Tenho interesse em jogos e tecnologia
-- 🌱 Atualmente estou cursando Ciência da Computação na Universidade Positivo
-- 🕹️Gosto de animes, e incrivelmente praticar esportes
 
  ##
 
