@@ -4,7 +4,7 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
-<img align="right" height="150 "  alt="Nathan-gif" src="https://i.pinimg.com/564x/a9/0d/e2/a90de2dd902740b083e6d1de11030f6b.jpg">
+<img align="right" height="500 "  alt="Nathan-gif" src="https://i.pinimg.com/564x/a9/0d/e2/a90de2dd902740b083e6d1de11030f6b.jpg">
 
   ## <img height="80" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1513.gif"/> Linguagens que uso/aprendendo
   
