@@ -4,7 +4,7 @@
  ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanhenriquy&show_icons=true&theme=algolia)
-<img align="right" height="500 "  alt="Nathan-gif" src="https://i.pinimg.com/564x/a9/0d/e2/a90de2dd902740b083e6d1de11030f6b.jpg">
+
 
   ## <img height="80" src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-1513.gif"/> Linguagens que uso/aprendendo
   
@@ -19,7 +19,7 @@
  
      
    
- ## <img height="80" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmM1MDkyMGZkODA4YWRlMzEzMjgxMWZlNjEwNmU3ZmU0YzBiNmJhYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ttozxmsw3F8XtsQg6q/giphy.gif"/> Links
+ ## <img height="80"  Links
   
   <div> 
   <a href="https://www.instagram.com/nathanhenriquy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
