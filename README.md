@@ -1,6 +1,6 @@
 <div align="left">
 
-# Oiee, eu sou o Nathan Henrique
+# Salve, eu sou o Nathan Henrique
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemlpaGoyeDQ3cmhmeW9kaWo4aWFwbjIwM20ydXE1ZXIxMGZ6b3FoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P9pFxO3J6AAcE/giphy.gif" />
 
